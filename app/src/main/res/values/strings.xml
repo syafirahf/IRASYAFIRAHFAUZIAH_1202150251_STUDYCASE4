@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IRASYAFIRAHFAUZIAH_1202150251_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Choi Yoojung</item>
+        <item>Na Jaemin</item>
+        <item>Park Woojin</item>
+        <item>Jung Jaehyun</item>
+        <item>Kim JunMyeon</item>
+        <item>Lee Taeyong</item>
+        <item>Kang Daniel</item>
+        <item>Jeon Somi</item>
+        <item>Jeon JungKook</item>
+        <item>Hwang Minhyun</item>
+        <item>Park Jihoon</item>
+        <item>Lai Guanlin</item>
+        <item>Choi Sulli</item>
+
+    </string-array>
+</resources>
